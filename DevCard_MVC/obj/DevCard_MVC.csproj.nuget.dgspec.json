@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohammad\\source\\repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj": {}
+    "C:\\Users\\mohammad\\Source\\Repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohammad\\source\\repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj": {
+    "C:\\Users\\mohammad\\Source\\Repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohammad\\source\\repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\mohammad\\Source\\Repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj",
         "projectName": "DevCard_MVC",
-        "projectPath": "C:\\Users\\mohammad\\source\\repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj",
+        "projectPath": "C:\\Users\\mohammad\\Source\\Repos\\Devcard\\DevCard_MVC\\DevCard_MVC.csproj",
         "packagesPath": "C:\\Users\\mohammad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohammad\\source\\repos\\Devcard\\DevCard_MVC\\obj\\",
+        "outputPath": "C:\\Users\\mohammad\\Source\\Repos\\Devcard\\DevCard_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
