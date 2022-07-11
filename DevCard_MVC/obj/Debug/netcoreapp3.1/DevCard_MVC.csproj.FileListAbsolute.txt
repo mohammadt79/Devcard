@@ -108,4 +108,5 @@ C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Ha
 C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.CoreCompileInputs.cache
 C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
-C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\project.cshtml.g.cs
+C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\project\_project.cshtml.g.cs
+C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Article\_Article.cshtml.g.cs
