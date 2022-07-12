@@ -111,3 +111,4 @@ C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor
 C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\project\_project.cshtml.g.cs
 C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Article\_Article.cshtml.g.cs
 C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\mohammad\source\repos\Devcard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
